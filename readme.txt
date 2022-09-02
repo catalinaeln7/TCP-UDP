@@ -1,5 +1,3 @@
-POPA CATALINA-ELENA 325CA
-
 Aplicația este formată dintr-un server, un subscriber (client TCP) si un
 client UDP. 
 
